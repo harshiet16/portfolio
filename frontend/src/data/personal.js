@@ -2,7 +2,7 @@ export const personalData = {
   name: "Harsh Pandey",
   title: "Full Stack Web Developer",
   tagline: "Computer Science and Engineering 2025 Batch Passout from Institute of Engineering and Technology (IET), Lucknow.",
-  aboutHeading: "Hi 👋, I'm Harsh Pandey",
+  aboutHeading: "Hi , I'm Harsh Pandey",
   aboutText: "As a dedicated Full-Stack Developer, I specialize in creating scalable, high-performance web applications using a diverse tech stack that includes the MERN stack (MongoDB, Express, React, Node.js), Spring Boot, and PostgreSQL. I thrive on solving complex challenges, from building user-friendly interfaces to architecting powerful backend systems. My experience covers a wide range of platforms, with a focus on optimizing performance and enhancing user experiences. Always eager to learn and grow, I’m passionate about contributing to the open-source community and collaborating on innovative projects that drive technological advancement.",
   aboutParagraphs: [
     "As a passionate and results-driven Full-Stack Developer, I specialize in designing and building scalable, high-performance web applications using a diverse and modern technology stack. My core expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), along with experience in backend development using Spring Boot and relational databases like PostgreSQL. I enjoy working across the entire development lifecycle—from crafting intuitive, user-friendly interfaces to developing robust, efficient backend systems that power seamless digital experiences.",
