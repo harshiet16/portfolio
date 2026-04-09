@@ -12,8 +12,10 @@ export const personalData = {
   email: "hpandeyg16@gmail.com",
   phone: "+91 7355056939",
   location: "India",
-  twitter: "https://twitter.com/harshpandey",
-  instagram: "https://instagram.com/harshpandey",
-  facebook: "https://facebook.com/harshpandey",
+  github: "https://github.com/harshiet16",
+  linkedin: "https://www.linkedin.com/in/harshiet16/",
+  twitter: "https://x.com/Harsh__pandey__",
+  instagram: "https://www.instagram.com/___harsh___pandey___/",
+  facebook: "https://www.facebook.com/dharshpandey",
   resume: "https://drive.google.com/file/d/15jvrqz4IeBucpUu-DGM-Q5im-HK6akOI/view?usp=sharing"
 };
