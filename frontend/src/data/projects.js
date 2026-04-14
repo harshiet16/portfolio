@@ -2,7 +2,7 @@ export const projectsData = [
   {
     _id: "1",
     title: "TriCode Compiler",
-    description: "I developed Tri Code Compiler, a web-based application that allows users to write and instantly preview HTML, CSS, and JavaScript code on the same page in real time. Built using React for a dynamic and responsive frontend, the platform integrates with RESTful APIs and a Node.js backend to efficiently process and render user input. The project focuses on providing a seamless live coding experience, enabling users to experiment, test, and visualize their code without switching environments. It demonstrates my ability to build interactive full-stack applications with clean UI, real-time functionality, and efficient client-server communication.",
+    description: "A real-time code editor built using the MERN stack that allows users to write and instantly preview HTML, CSS, and JavaScript on a single page. It integrates a Node.js backend with RESTful APIs for efficient code processing and rendering. The application features a clean, responsive UI, delivering a seamless live coding experience across devices.",
     image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     techStack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript", "Redux", "Tailwind CSS", "JWT API"],
     githubLink: "https://github.com/harshiet16/Tri-Code-Compiler",
