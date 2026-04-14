@@ -1,21 +1,21 @@
 export const projectsData = [
   {
     _id: "1",
-    title: "BigBasket Clone",
-    description: "A full-stack replica of the popular grocery delivery app featuring advanced product filtering, responsive UI, and secure cart management.",
-    image: "https://images.unsplash.com/photo-1542838132-92c53300491e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    techStack: ["React", "Redux", "Node.js", "Express", "MongoDB"],
-    githubLink: "https://github.com",
-    liveLink: "https://example.com"
+    title: "TriCode Compiler",
+    description: "I developed Tri Code Compiler, a web-based application that allows users to write and instantly preview HTML, CSS, and JavaScript code on the same page in real time. Built using React for a dynamic and responsive frontend, the platform integrates with RESTful APIs and a Node.js backend to efficiently process and render user input. The project focuses on providing a seamless live coding experience, enabling users to experiment, test, and visualize their code without switching environments. It demonstrates my ability to build interactive full-stack applications with clean UI, real-time functionality, and efficient client-server communication.",
+    image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    techStack: ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript", "Redux", "Tailwind CSS", "JWT API"],
+    githubLink: "https://github.com/harshiet16/Tri-Code-Compiler",
+    liveLink: "https://tri-code-compiler-ds1zol7dy-harshiet16s-projects.vercel.app/"
   },
   {
     _id: "2",
-    title: "Flipkart Clone",
-    description: "An extensive e-commerce platform clone modeling Flipkart's core features including product catalogs, item details, and secure checkout flow.",
-    image: "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    techStack: ["React", "Tailwind CSS", "Firebase", "Stripe API"],
-    githubLink: "https://github.com",
-    liveLink: "https://example.com"
+    title: "MERN Chat Application",
+    description: "A feature-rich, real-time messaging platform built using the MERN stack. It supports secure cross-domain authentication with JWT, real-time communication via Socket.io, and personalized user avatars through DiceBear. The application features a responsive UI built with Tailwind CSS, ensuring a seamless chat experience across all devices.",
+    image: "https://images.unsplash.com/photo-1611743572933-e7135821fbc1?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    techStack: ["MongoDB", "Express.js", "React.js", "Node.js", "Socket.io", "PeerJS", "Tailwind CSS", "JWT API"],
+    githubLink: "https://github.com/harshiet16/Chatting-App",
+    liveLink: "https://chatting-app-virid-two.vercel.app/login"
   },
   {
     _id: "3",
